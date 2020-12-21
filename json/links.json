@@ -5,24 +5,11 @@
         "color": "red",
         "icon": "web",
         "url": "https://www.linkedin.com/in/berwinl/"
-	}<!--,
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
 	},
     {
-        "name": "Link",
+        "name": "Résumé",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "url": "https://docs.google.com/document/d/1hW7bGKH9Ljc-ZoTSQjeVrmWuqLB9kuFxdishGr1lSjI/edit?usp=sharing"
 	}
-	-->
 ]
