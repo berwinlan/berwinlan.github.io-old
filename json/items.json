@@ -18,9 +18,9 @@
         "link": "https://google.com"
 	},
     {
-        "name": "Project 4",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Epidemiology SIR Model",
+        "description": "We adopted and answered our modeling question using abstraction, simulation, analysis, and verification/validation of an SIR (susceptible, infectious, recovered) model for infectious disease in MATLAB.",
+        "image": "images/modsim1.png",
+        "link": "http://www.berwinl.com/files/modsim1.pdf"
 	}
 ]
