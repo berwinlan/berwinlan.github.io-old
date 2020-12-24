@@ -19,7 +19,7 @@
 	},
     {
         "name": "Epidemiology SIR Model",
-        "description": "We adopted and answered our modeling question using abstraction, simulation, analysis, and verification/validation of an SIR (susceptible, infectious, recovered) model for infectious disease in MATLAB.",
+        "description": "We adopted and answered our modeling question (concerning efficacy of public health interventions) using abstraction, simulation, analysis, and verification/validation of an SIR (susceptible, infectious, recovered) model for infectious disease in MATLAB.",
         "image": "images/modsim1.png",
         "link": "http://www.berwinl.com/files/modsim1.pdf"
 	}
