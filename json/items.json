@@ -2,25 +2,31 @@
     {
         "name": "Thermal Systems Model",
         "description": "My partner and I modeled a passive solar house and focused on answering our modeling question, “what aspect of a solar house is financially worth upgrading in order to maximize its efficiency?” by observing the effects of sweeping certain parameters. We represented our model as a stock and flow diagram, schematic, first-order ordinary differential equations, and MATLAB computational simulation, bringing in data and outside sources to verify, validate, and assess the accuracy of our model. (Modeling and Simulation, Fall 2020)",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "image": "images/modsim2.jpg",
+        "link": "files/modsim2",
+	"link_name": "Computational Essay",
+	"link": "files/modsim2pres",
+	"link_name": "Slide Deck"
 	},
     {
         "name": "Eigenfaces Project",
         "description": "My partner and I used linear algebra techniques (linear regression, principal component analysis, eigendecomposition, nearest-neighbor searching) to explore the impact of race on housing appraisals on Boston-area properties in 1970, by extension questioning the role of implicit human bias in objective processes and the ability of machine learning to counter these issues. (Quantitative Engineering Analysis 1, Fall 2020)",
         "image": "images/eigenimage.jpg",
-        "link": "http://www.berwinl.com/files/Eigenteam_23.pdf"
+        "link": "files/Eigenteam_23.pdf",
+	"link_name": "Paper"
 	},
     {
         "name": "Hopper Project",
         "description": "I built a biologically inspired hopper capable of jumping substantially compared to its size, among other requirements. We were introduced to the engineering design process, and as part of the project, we completed a biomechanical study of our chosen organism, formulated goal and designer statements, and followed an iteration cycle. (Design Nature, Fall 2020)",
         "image": "images/hopper.jpg",
-        "link": "https://google.com"
+        "link": "https://google.com",
+	"link_name": ""
 	},
     {
         "name": "Epidemiology SIR Model",
         "description": "We adopted and answered our modeling question (concerning efficacy of public health interventions) using abstraction, simulation, analysis, and verification/validation of an SIR (susceptible, infectious, recovered) model for infectious disease in MATLAB. (Modeling and Simulation, Fall 2020)",
         "image": "images/modsim1.png",
-        "link": "http://www.berwinl.com/files/modsim1.pdf"
+        "link": "files/modsim1.pdf",
+	"link_name": "Computational Essay"
 	}
 ]
