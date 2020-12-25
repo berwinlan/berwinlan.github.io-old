@@ -6,10 +6,10 @@
         "link": "https://google.com"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Eigenfaces Project",
+        "description": "My partner and I used linear algebra techniques (linear regression, principal component analysis, eigendecomposition, nearest-neighbor searching) to explore the impact of race on housing appraisals on Boston-area properties in 1970, by extension questioning the role of implicit human bias in objective processes and the ability of machine learning to counter these issues. (Quantitative Engineering Analysis 1, Fall 2020)",
+        "image": "images/eigenimage.jpg",
+        "link": "http://www.berwinl.com/files/Eigenteam_23.pdf"
 	},
     {
         "name": "Hopper Project",
