@@ -14,8 +14,8 @@
     {
         "name": "Hopper Project",
         "description": "I built a biologically inspired hopper capable of jumping substantially compared to its size, among other requirements. We were introduced to the engineering design process, and as part of the project, we completed a biomechanical study of our chosen organism, formulated goal and designer statements, and followed an iteration cycle. (Design Nature, Fall 2020)",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "image": "images/hopper.jpg",
+        <!--"link": "https://google.com"-->
 	},
     {
         "name": "Epidemiology SIR Model",
