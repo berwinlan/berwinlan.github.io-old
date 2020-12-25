@@ -1,6 +1,13 @@
 [
     {
-        "name": "Thermal Systems Model",
+        "name": "Mechanical System Model",
+        "description": "My partner and I modeled a swing set to answer our modeling question, “what is the minimum speed you need to be swinging at in order to make a complete revolution around the fulcrum?” using a schematic, free-body diagram, system of second-order ordinary differential equations, MATLAB implementation of first-order ordinary differential equations, and visually as plots and animations. (Modeling and Simulation, Fall 2020)",
+	"image": "images/modsim3.jpg",
+        "link": "files/modsim3.pdf",
+	"link_name": "Slide Deck & Computational Essay"
+	},
+    {
+        "name": "Thermal System Model",
         "description": "My partner and I modeled a passive solar house and focused on answering our modeling question, “what aspect of a solar house is financially worth upgrading in order to maximize its efficiency?” by observing the effects of sweeping certain parameters. We represented our model as a stock and flow diagram, schematic, first-order ordinary differential equations, and MATLAB computational simulation, bringing in data and outside sources to verify, validate, and assess the accuracy of our model. (Modeling and Simulation, Fall 2020)",
         "image": "images/modsim2.jpg",
         "link": "files/modsim2.pdf",
