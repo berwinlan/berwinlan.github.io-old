@@ -11,5 +11,11 @@
         "color": "black",
         "icon": "web",
         "url": "files/Lan%20Résumé.pdf"
+	},
+    {
+        "name": "GitHub",
+        "color": "black",
+        "icon": "web",
+        "url": "https://github.com/berwinlan"
 	}
 ]
