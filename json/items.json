@@ -7,6 +7,13 @@
 	"link_name": "[In Progress] Final Report"
 	},
     {
+        "name": "Play Project",
+        "description": "My team and I designed a bioinspired play experience for fourth graders. This project served as our introduction to stakeholder research, the design review process, and play testing. (Design Nature, Fall 2020)",
+	"image": "images/playproject.jpg",
+        "link": "files/playproject.pdf",
+	"link_name": "[In Progress] Final Report"
+	},
+    {
         "name": "Mechanical System Model",
         "description": "My partner and I modeled a swing set to answer our modeling question, “what is the minimum speed you need to be swinging at in order to make a complete revolution around the fulcrum?” using a schematic, free-body diagram, system of second-order ordinary differential equations, MATLAB implementation of first-order ordinary differential equations, and visually as plots and animations. (Modeling and Simulation, Fall 2020)",
 	"image": "images/modsim3.jpg",
