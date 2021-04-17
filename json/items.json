@@ -1,5 +1,12 @@
 [
     {
+        "name": "Bridge of Doom Challenge",
+        "description": "The Bridge of Doom Challenge aims to apply our knowledge of parametric curves, robot motion models, validation, and debugging techniques by writing a program to autonomously pilot a simulated NEATO robot from the starting platform to the goal using MATLAB, ROS, and Gazebo. (QEA 2, Spring 2021)",
+	"image": "images/BoD.jpg",
+        "link": "files/bridge_of_doom.pdf",
+	"link_name": "[In Progress] Final Report"
+	},
+    {
         "name": "Nose Cone R&D",
         "description": "I am developing the nose cone of Olin Rocketry's 10K SRAD rocket. This project involves research, a design and trade study, CAD, manufacturing, FEA, and failure testing. (Olin Rocketry, Fall 2020)",
 	"image": "images/noseconePDR.jpg",
