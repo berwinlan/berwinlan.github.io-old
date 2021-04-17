@@ -4,7 +4,7 @@
         "description": "The Bridge of Doom Challenge aims to apply our knowledge of parametric curves, robot motion models, validation, and debugging techniques by writing a program to autonomously pilot a simulated NEATO robot from the starting platform to the goal using MATLAB, ROS, and Gazebo. (QEA 2, Spring 2021)",
 	"image": "images/BoD.jpg",
         "link": "files/bridge_of_doom.pdf",
-	"link_name": "[In Progress] Final Report"
+	"link_name": "Final Report"
 	},
     {
         "name": "Nose Cone R&D",
